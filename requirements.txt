@@ -1,0 +1,5 @@
+streamlit
+pypdf
+sentence-transformers==3.4.1
+chromadb
+ollama
